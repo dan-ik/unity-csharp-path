@@ -1,24 +1,37 @@
 ﻿using System;
-//Console.WriteLine("Привет, Danil");
-int a = 13;
-int b = 9;
-int c = 0;
-string name = "Danil";
-void Greet(string name)
-{
-    Console.WriteLine($"Привет, {name}");
-}
 
-if (a < b)
+class Program
 {
-    Console.WriteLine("a меньше b");
-}
-else (a > b)
-{
-    Console.WriteLine("a больше b");
-    int Sum(int a, int b)
+    static int a = 55;
+    static int b = 9;
+    static string name = "Данил";
+    static int Sum(int a, int b)
     {
         return a + b;
     }
-    Console.WriteLine();
+    static void Greet (string name)
+    {
+        Console.WriteLine($"Привет, {name}!");
+    }
+    static void Main(string[] args)
+    {
+        int total = 0;
+        for (int i = 1; i <= 5; i++)
+        {
+            total += Sum(i, i * 2);
+        }
+        Console.WriteLine($"Total= {total}");
+        Greet(name);
+        if (a < b)
+        {
+            Console.WriteLine("a меньше b");
+        }
+        else
+        {
+            Console.WriteLine("a больше b");
+            int result = Sum(a, b);
+            Console.WriteLine(result);
+        }
+
+    }
 }
