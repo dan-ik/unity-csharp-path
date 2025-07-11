@@ -1,0 +1,15 @@
+C:\Users\denef\unity-csharp-path-1\week0-setup\hello-csharp\bin\Debug\net9.0\hello-csharp.exe
+C:\Users\denef\unity-csharp-path-1\week0-setup\hello-csharp\bin\Debug\net9.0\hello-csharp.deps.json
+C:\Users\denef\unity-csharp-path-1\week0-setup\hello-csharp\bin\Debug\net9.0\hello-csharp.runtimeconfig.json
+C:\Users\denef\unity-csharp-path-1\week0-setup\hello-csharp\bin\Debug\net9.0\hello-csharp.dll
+C:\Users\denef\unity-csharp-path-1\week0-setup\hello-csharp\bin\Debug\net9.0\hello-csharp.pdb
+C:\Users\denef\unity-csharp-path-1\week0-setup\hello-csharp\obj\Debug\net9.0\hello-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denef\unity-csharp-path-1\week0-setup\hello-csharp\obj\Debug\net9.0\hello-csharp.AssemblyInfoInputs.cache
+C:\Users\denef\unity-csharp-path-1\week0-setup\hello-csharp\obj\Debug\net9.0\hello-csharp.AssemblyInfo.cs
+C:\Users\denef\unity-csharp-path-1\week0-setup\hello-csharp\obj\Debug\net9.0\hello-csharp.csproj.CoreCompileInputs.cache
+C:\Users\denef\unity-csharp-path-1\week0-setup\hello-csharp\obj\Debug\net9.0\hello-csharp.sourcelink.json
+C:\Users\denef\unity-csharp-path-1\week0-setup\hello-csharp\obj\Debug\net9.0\hello-csharp.dll
+C:\Users\denef\unity-csharp-path-1\week0-setup\hello-csharp\obj\Debug\net9.0\refint\hello-csharp.dll
+C:\Users\denef\unity-csharp-path-1\week0-setup\hello-csharp\obj\Debug\net9.0\hello-csharp.pdb
+C:\Users\denef\unity-csharp-path-1\week0-setup\hello-csharp\obj\Debug\net9.0\hello-csharp.genruntimeconfig.cache
+C:\Users\denef\unity-csharp-path-1\week0-setup\hello-csharp\obj\Debug\net9.0\ref\hello-csharp.dll
