@@ -1,0 +1,25 @@
+# Файлы сборки .NET
+bin/
+obj/
+
+# Файлы Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Папка с настройками VS Code
+.vscode/
+
+# Файлы логов
+*.log
+
+# Пакеты NuGet
+*.nupkg
+packages/
+
+# Rider
+*.idea/
+
+# MacOS
+.DS_Store
